@@ -2,9 +2,8 @@ name: ✨ Feature Request
 description: Suggest an idea for VoiceFlow
 title: "[Feature]: "
 labels: ["enhancement", "needs-triage"]
-projects: ["yuis-ice/1"]
 assignees:
-  - yuis-ice
+  - didvc
 body:
   - type: markdown
     attributes:

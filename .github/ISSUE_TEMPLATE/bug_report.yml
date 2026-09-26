@@ -2,9 +2,8 @@ name: 🐛 Bug Report
 description: Report a bug to help us improve VoiceFlow
 title: "[Bug]: "
 labels: ["bug", "needs-triage"]
-projects: ["yuis-ice/1"]
 assignees:
-  - yuis-ice
+  - didvc
 body:
   - type: markdown
     attributes:

@@ -44,7 +44,7 @@ By participating in this project, you agree to abide by our Code of Conduct:
 
 2. **Add upstream remote**
    ```bash
-   git remote add upstream https://github.com/yuis-ice/text-to-speech.git
+   git remote add upstream https://github.com/didvc/text-to-speech.git
    ```
 
 3. **Install dependencies**
@@ -321,8 +321,8 @@ Contributors who make significant contributions will be:
 
 Need help with contributing? Reach out through:
 
-- **GitHub Discussions**: [Ask questions](https://github.com/yuis-ice/text-to-speech/discussions)
-- **Issues**: [Create an issue](https://github.com/yuis-ice/text-to-speech/issues/new/choose) for bugs or features
+- **GitHub Discussions**: [Ask questions](https://github.com/didvc/text-to-speech/discussions)
+- **Issues**: [Create an issue](https://github.com/didvc/text-to-speech/issues/new/choose) for bugs or features
 - **Direct contact**: Check the repository for maintainer contact information
 
 ## 🙏 Thank You

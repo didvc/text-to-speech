@@ -186,7 +186,7 @@ function App() {
           </div>
           <div className="flex items-center space-x-3">
             <a
-              href="https://github.com/yuis-ice/text-to-speech"
+              href="https://github.com/didvc/text-to-speech"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-gray-700 hover:bg-gray-600 rounded-lg transition-colors group"
@@ -268,7 +268,7 @@ function App() {
               </p>
               <div className="space-y-2">
                 <a
-                  href="https://github.com/yuis-ice/text-to-speech"
+                  href="https://github.com/didvc/text-to-speech"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between w-full p-2 bg-gray-700 hover:bg-gray-600 rounded text-sm transition-colors group"
@@ -280,7 +280,7 @@ function App() {
                   <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-white transition-colors" />
                 </a>
                 <a
-                  href="https://github.com/yuis-ice/text-to-speech/issues"
+                  href="https://github.com/didvc/text-to-speech/issues"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between w-full p-2 bg-gray-700 hover:bg-gray-600 rounded text-sm transition-colors group"
@@ -292,7 +292,7 @@ function App() {
                   <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-white transition-colors" />
                 </a>
                 <a
-                  href="https://github.com/yuis-ice/text-to-speech/blob/main/CONTRIBUTING.md"
+                  href="https://github.com/didvc/text-to-speech/blob/main/CONTRIBUTING.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between w-full p-2 bg-gray-700 hover:bg-gray-600 rounded text-sm transition-colors group"
@@ -449,7 +449,7 @@ function App() {
             </p>
             <div className="flex space-x-2">
               <a
-                href="https://github.com/yuis-ice/text-to-speech"
+                href="https://github.com/didvc/text-to-speech"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-1 bg-white/20 hover:bg-white/30 text-white px-3 py-1.5 rounded text-sm transition-colors"
@@ -458,7 +458,7 @@ function App() {
                 <span>Star</span>
               </a>
               <a
-                href="https://github.com/yuis-ice/text-to-speech/issues"
+                href="https://github.com/didvc/text-to-speech/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-1 bg-white/20 hover:bg-white/30 text-white px-3 py-1.5 rounded text-sm transition-colors"
@@ -528,7 +528,7 @@ function App() {
             </div>
             <div className="flex items-center space-x-4">
               <a
-                href="https://github.com/yuis-ice/text-to-speech"
+                href="https://github.com/didvc/text-to-speech"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-sm text-gray-400 hover:text-white transition-colors"
@@ -538,7 +538,7 @@ function App() {
               </a>
               <span className="text-gray-600">•</span>
               <a
-                href="https://github.com/yuis-ice/text-to-speech/issues"
+                href="https://github.com/didvc/text-to-speech/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-sm text-gray-400 hover:text-white transition-colors"
@@ -548,7 +548,7 @@ function App() {
               </a>
               <span className="text-gray-600">•</span>
               <a
-                href="https://github.com/sponsors/yuis-ice"
+                href="https://github.com/sponsors/didvc"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-sm text-gray-400 hover:text-pink-400 transition-colors"
