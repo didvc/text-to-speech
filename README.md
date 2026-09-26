@@ -1,3 +1,5 @@
+English · [日本語](README-ja.md) · [繁體中文](README-zh-TW.md) · [简体中文](README-zh.md) · [Deutsch](README-de.md) · [Français](README-fr.md) · [Español](README-es.md) · [Bahasa Indonesia](README-id.md)
+
 # VoiceFlow - Advanced Text-to-Speech Application
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge)](https://text-speech.pages.dev)
